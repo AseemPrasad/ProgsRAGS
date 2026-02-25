@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+asyncpg
+qdrant-client
+openai
+pydantic-settings
+python-multipart
+pypdf
+langchain-text-splitters
+pytest
+httpx
+pytest-asyncio
